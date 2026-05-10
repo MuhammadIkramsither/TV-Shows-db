@@ -2,6 +2,7 @@
 **Introduction**
 
 Research and Development (RND) was conducted during this project to explore the use of database systems and business intelligence tools in real-world data analysis. The purpose of the research was to understand how data can be stored, processed, analyzed, and visualized effectively using modern technologies.
+
 **Research Areas**
 
 The following areas were researched during the development of this project:

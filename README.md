@@ -32,6 +32,7 @@ Purpose of RND
 The purpose of the research and development process was to gain practical knowledge of database systems and business intelligence tools. It also helped in improving skills related to SQL query writing, database design, dashboard development, and data visualization.
 
 **Author**
+
 Muhammad Ikram
 
 Founder & Developer
